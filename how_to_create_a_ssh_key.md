@@ -4,7 +4,7 @@ A SSH key is used to securely connect to dimension.sh services and is required f
 
 We recommend **ed25519** keys, but we do accept **RSA** and the other OpenSSH supported keytypes, except **DSA**. 
 
-#### Linux / *BSD / Most *nix Systems
+#### Linux / \*BSD / Most \*nix Systems
 
 You can use OpenSSH that'll most likely be provided by your OS distribution.
 
