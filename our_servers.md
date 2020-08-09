@@ -14,7 +14,7 @@ Want to package some RPMs or build a larger C project? These servers are the pla
 
 Name | CPU | Memory | Disk | Connectivity | Location    |
 -----|-----|--------|------|--------------|-------------|
-B1   | 2   | 4GB    | 16GB | IPv6 Only    | Doofnet, London, UK |
+B1   | 2   | 4GB    | 16GB | IPv6 Only    | Doofnet.uk, London, UK |
 
 #### Service Servers
 
@@ -22,4 +22,4 @@ Made for hosting larger services, IRC, NNTP and so on. Logins for these systems 
 
 Name | CPU | Memory | Disk | Connectivity | Location    |
 -----|-----|--------|------|--------------|-------------|
-SRV1 | 2   | 4GB    | 16GB | IPv6 Only    | Doofnet, London, UK |
+SRV1 | 2   | 4GB    | 16GB | IPv6 Only    | Doofnet.uk, London, UK |
