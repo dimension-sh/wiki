@@ -10,5 +10,6 @@
 
 #### Guides
 
+* [[Accessing your email via IMAP]]
 * [[Using public_html]]
 * [[Using Gopher]]
