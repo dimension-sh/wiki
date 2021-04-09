@@ -1,6 +1,6 @@
 ### Services
 
-**dimension.sh** offers the following services to it's members:
+**dimension.sh** offers the following services to its members:
 
 * SSH accessible Linux shell, with reasonable limits
 * Email at **@dimension.sh**, with access via IMAPS

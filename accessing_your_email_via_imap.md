@@ -1,6 +1,6 @@
 ### Accessing your email via IMAP
 
-Your dimension.sh email account is accessible from any email client using IMAP. To connect you need to use the following details
+Your dimension.sh email account is accessible from any email client using IMAP. To connect, you'll need to use the following details
 
 * Email address: yourusername@dimension.sh
 

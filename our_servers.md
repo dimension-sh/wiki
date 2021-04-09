@@ -1,6 +1,6 @@
 ### Our Servers
 
-We have a few different servers to serve different needs, and the only truely 'net accessible ones are the shell servers, other servers will be connected to via the shell systems.
+We have a few different servers to serve different needs, and the only truly 'net accessible ones are the shell servers; all other servers can only be connected to via the shell systems.
 
 #### Shell Servers
 
@@ -18,7 +18,7 @@ B1   | 2   | 4GB    | 16GB | IPv6 Only    | Doofnet.uk, London, UK |
 
 #### Service Servers
 
-Made for hosting larger services, IRC, NNTP and so on. Logins for these systems are generally not handed out to normal users.
+Service nodes are made for hosting more extensive services, IRC, NNTP, and so on. Logins for these systems are generally not handed out to regular users.
 
 Name | CPU | Memory | Disk | Connectivity | Location    |
 -----|-----|--------|------|--------------|-------------|

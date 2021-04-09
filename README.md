@@ -6,4 +6,4 @@ This repository holds the markdown files for the [Dimension.sh Wiki](https://dim
 
 * Use H3 `###` or smaller
 * Use WikiLinks for internal pages: `[[Page]]`
-* Link to reputable, long lasting sources for information, or if you can't use archive.org to ensure some consistency over time.
+* Link to reputable, long-lasting sources for information, or if you can't, use archive.org to ensure some consistency over time.
