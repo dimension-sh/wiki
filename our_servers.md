@@ -15,11 +15,3 @@ Want to package some RPMs or build a larger C project? These servers are the pla
 Name | CPU | Memory | Disk | Connectivity | Location    |
 -----|-----|--------|------|--------------|-------------|
 B1   | 2   | 4GB    | 16GB | IPv6 Only    | Doofnet.uk, London, UK |
-
-#### Service Servers
-
-Service nodes are made for hosting more extensive services, IRC, NNTP, and so on. Logins for these systems are generally not handed out to regular users.
-
-Name | CPU | Memory | Disk | Connectivity | Location    |
------|-----|--------|------|--------------|-------------|
-SRV1 | 2   | 4GB    | 16GB | IPv6 Only    | Doofnet.uk, London, UK |
