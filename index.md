@@ -14,13 +14,14 @@
 
 #### Guides
 ##### Mail 
+* [[Getting Started with Mail]]
 * [[Accessing your email via IMAP]]
 
-#### Web Hosting
+##### Web Hosting
 * [[Using public_html]]
 
-#### Gopher Hosting
+##### Gopher Hosting
 * [[Using public_gopher]]
 
-#### Gemini Hosting
+##### Gemini Hosting
 * [[Using public_gemini]]
