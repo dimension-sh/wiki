@@ -25,9 +25,8 @@ To forward your Dimension email to another address, all you need to do is create
 
 If wanted to have all your emails forwarded to `myawesomeemail@gmail.com` you can run the following command:
 
-```
-# echo "myawesomeemail@gmail.com" > ~/.forward
-```
+    # echo "myawesomeemail@gmail.com" > ~/.forward
+
 
 Note: some email servers don't take kindly to this type of forwarding and may mark the mail as spam. 
 
