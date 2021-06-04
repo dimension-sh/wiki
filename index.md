@@ -13,6 +13,10 @@
 * [[Account Management]]
 
 #### Guides
+
+##### Finger
+* [[Using finger]]
+
 ##### Mail 
 * [[Getting Started with Mail]]
 * [[Accessing your email via IMAP]]
