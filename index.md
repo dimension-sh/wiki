@@ -25,9 +25,11 @@ This wiki's aim is to hold useful documents for Dimension members. If you wish t
 * [[Using public_html]]
 
 ##### Gopher Hosting
+* [[What is Gopher]]
 * [[Using public_gopher]]
 
 ##### Gemini Hosting
+* [[What is Gemini]]
 * [[Using public_gemini]]
 
 ##### Finger
