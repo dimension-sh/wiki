@@ -7,6 +7,7 @@ This wiki's aim is to hold useful documents for Dimension members. If you wish t
 * [[Rules]]
 * [[How to Create A SSH Key]]
 * [[Services]]
+* [[Tildeverse Services]]
 * [[Our Servers]]
 
 #### Legal Stuff
