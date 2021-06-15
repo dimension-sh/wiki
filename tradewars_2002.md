@@ -17,3 +17,7 @@ Many getting started guides exist for the game, a few popular ones are:
 * [Gypsy's Big Dummy's Guide to Tradewars](http://wiki.classictw.com/index.php/Gypsy%27s_Big_Dummy%27s_Guide_to_TradeWars_Text)
 * [The TradeWars 2002 Bible](http://www.penismightier.com/clme/Trade_Wars/Trade_Wars_2002_Bible.htm)
 * [TradeWars Forums](http://www.classictw.com)
+
+### Active Games
+
+* **(A) Dimension TW2002** - 5k Sectors, 1k turns, No Gold - Started 13th June 2021.
