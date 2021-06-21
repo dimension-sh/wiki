@@ -1,8 +1,8 @@
-### Dimension.sh Wiki
+# Dimension.sh Wiki
 
 This wiki's aim is to hold useful documents for Dimension members. If you wish to contribute the source is available in the [Github repository](https://github.com/dimension-sh/wiki).
 
-#### Getting Started
+## Getting Started
 
 * [[Rules]]
 * [[How to Create A SSH Key]]
@@ -10,31 +10,31 @@ This wiki's aim is to hold useful documents for Dimension members. If you wish t
 * [[Tildeverse Services]]
 * [[Our Servers]]
 
-#### Legal Stuff
+## Legal Stuff
 
 * [[Data Retention]]
 * [[Account Management]]
 
-#### Guides
+## Guides
 
-##### Mail 
+### Mail 
 * [[Getting Started with Mail]]
 * [[Accessing your email via IMAP]]
 
-##### Web Hosting
+### Web Hosting
 * [[Using public_html]]
 
-##### Gopher Hosting
+### Gopher Hosting
 * [[What is Gopher]]
 * [[Using public_gopher]]
 
-##### Gemini Hosting
+### Gemini Hosting
 * [[What is Gemini]]
 * [[Using public_gemini]]
 
-##### Finger
+### Finger
 * [[Using finger]]
 
-##### Games
+### Games
 * [[MUD]]
 * [[Tradewars 2002]]

@@ -1,4 +1,4 @@
-## Tildeverse Services
+# Tildeverse Services
 
 In addition to our [[Services]], Dimension account holders also have access to the wider [Tildeverse](https://tildeverse.org) services:
 

@@ -1,4 +1,4 @@
-### Rules
+# Rules
 
 We're not the type of people to heavily police everything that is going on, but we do have a few simple rules to follow:
 

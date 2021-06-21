@@ -1,6 +1,6 @@
-### Using Finger
+# Using Finger
 
-#### The `Finger` command
+## The `Finger` command
 
 To 'finger' a user, all you need to do is call `finger <user>@<hostname>` on the command line:
 
@@ -40,7 +40,7 @@ users currently logged in are:
 nikdoof  + pts/0        2021-06-03 09:44 00:02      801233
 ```
 
-#### Customising your Finger responses
+## Customising your Finger responses
 
 On dimension.sh, we have a operating Finger server that is available to the wider internet. You can customize what is returned to the caller with a collection of files in your home directory.
 

@@ -1,10 +1,10 @@
-### How To Create A SSH Key
+# How To Create A SSH Key
 
 An SSH key is required to connect to dimension.sh services securely and for signing up for a user account. 
 
 We recommend **ed25519** keys, but we accept **RSA** and the other OpenSSH supported key types, except **DSA**. 
 
-#### Linux / \*BSD / Most \*nix Systems
+## Linux / \*BSD / Most \*nix Systems
 
 You can use OpenSSH that'll most likely be provided by your OS distribution.
 
@@ -18,7 +18,7 @@ You can use OpenSSH that'll most likely be provided by your OS distribution.
     This will create two files `id_ed25519` and `id_ed25519.pub` in the folder `~/.ssh`, which will be the `.ssh` folder in your home folder.
 3. Take note of the `id_ed25519.pub` file location, as this is your public key, which you'll need to provide during registration for an account.
 
-#### Windows 10
+## Windows 10
 
 The latest Windows 10 includes a version of OpenSSH that you can use to create a key without extra software.
 
@@ -32,7 +32,7 @@ The latest Windows 10 includes a version of OpenSSH that you can use to create a
     This will create two files `id_ed25519` and `id_ed25519.pub` in the folder `%USERPROFILE%/.ssh`, which will be the `.ssh` folder in your User folder.
 3. Take note of the `id_ed25519.pub` file location, as this is your public key, which you'll need to provide during registration for an account.
 
-#### Windows 10 using PuTTY
+## Windows 10 using PuTTY
 
 If your version of Windows 10 doesn't include OpenSSH and the `ssh-keygen` command doesn't work then you can install and use **PuTTY**.
 

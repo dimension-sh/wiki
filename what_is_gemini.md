@@ -1,4 +1,4 @@
-## What is Gemini?
+# What is Gemini?
 
 Gemini is a new protocol, much like HTTP but with a few key goals:
 
@@ -8,7 +8,7 @@ Gemini is a new protocol, much like HTTP but with a few key goals:
 
 The current Gemini space consists of about 1000 capsules, and is growing daily.
 
-### Clients
+## Clients
 
 Gemini has clients for almost all platforms. A full list can be found at [Awesome Gemini](https://github.com/kr1sp1n/awesome-gemini#clients), but here is a list of suggested clients:
 
@@ -16,6 +16,6 @@ Gemini has clients for almost all platforms. A full list can be found at [Awesom
 * [Lagrange](https://git.skyjake.fi/gemini/lagrange) - A beautiful client that works on most platforms. 
 
 
-### References
+## References
 * [Project Gemini](https://gemini.circumlunar.space)
 * [Gemini Specification](https://gemini.circumlunar.space/docs/specification.html)
