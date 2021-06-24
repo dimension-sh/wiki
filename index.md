@@ -9,13 +9,17 @@ This wiki's aim is to hold useful documents for Dimension members. If you wish t
 * [[Services]]
 * [[Tildeverse Services]]
 * [[Our Servers]]
+* [[Account Management]]
 
 ## Legal Stuff
 
 * [[Data Retention]]
-* [[Account Management]]
 
 ## Guides
+
+### General
+
+* [[Suggesting Improvements]]
 
 ### Mail 
 * [[Getting Started with Mail]]
