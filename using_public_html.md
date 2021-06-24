@@ -14,9 +14,9 @@ We're not restrictive of what can be hosted in your `public_html` files; we ask 
 * Custom 404 pages (name the file `404.html` in your `public_html`)
 * Custom 50x pages (name the file `500.html` in your `public_html`)
 
-## What we don't support at the moment
+## What we _don't_ support at the moment
 
-* CGI scripts
+* CGI scripts - ([In progress](https://github.com/dimension-sh/infra/issues/11))
 * PHP
 
 ## Helpful Tools
