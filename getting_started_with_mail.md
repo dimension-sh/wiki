@@ -17,7 +17,7 @@ Which you use is a matter of personal preference, `alpine` has a gentler learnin
 
 ## Accessing via IMAP
 
-Accessing your Dimension mail from a full email client is quite easy. All the details that you need to connect to the mail server are available on the [[Accessing your email via IMAP]]. Configuration of the client varies from client to client, so please search for a guide for your client. If you have any issues, then contact the admins at [root@dimension.sh](mailto:root@dimension.sh).
+Accessing your Dimension mail from a full email client is quite easy. All the details that you need to connect to the mail server are available on the [[Accessing your email via IMAP]]. Configuration of the client varies from client to client, so please search for a guide for your client. If you have any issues, then contact the admins at [sysops@dimension.sh](mailto:sysops@dimension.sh).
 
 ## Forward to another address
 

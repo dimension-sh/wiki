@@ -27,8 +27,8 @@ All data is stored within the United Kingdom, and as such, under the jurisdictio
 
 ## Requesting A Copy Of Your Data
 
-If you wish to have a complete copy of your data on our systems, email [root@dimension.sh](mailto:root@dimension.sh) from your user account, and we'll deliver a `.zip` file within seven working data.
+If you wish to have a complete copy of your data on our systems, email [sysops@dimension.sh](mailto:sysops@dimension.sh) from your user account, and we'll deliver a `.zip` file within seven working data.
 
 ## Requesting Removal Of Your Data
 
-If you wish to have us remove all your personal data from our systems, email [root@dimension.sh](mailto:root@dimension.sh) from your user account, and you'll receive a response within seven working data.
+If you wish to have us remove all your personal data from our systems, email [sysops@dimension.sh](mailto:sysops@dimension.sh) from your user account, and you'll receive a response within seven working data.
