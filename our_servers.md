@@ -6,5 +6,4 @@ We have a few different servers to serve different needs, and the only truly 'ne
 
 Name | CPU | Memory | Disk | OS               | Connectivity | Location                   | Notes          |
 -----|-----|--------|------|------------------|--------------|----------------------------|----------------|
-S1   | 1   | 2GB    | 25GB | CentOS 8         | IPv4 / IPv6  | DigitalOcean, London, UK   |                |
-S2   | 1   | 2GB    | 16GB | Rocky Linux 8 RC | IPv4 / IPv6  | Doofnet.uk, Manchester, UK | Limited Access |
+S1   | 2   | 2GB    | 25GB | CentOS 8         | IPv4 / IPv6  | DigitalOcean, London, UK   |                |
