@@ -12,7 +12,7 @@ The current Gemini space consists of about 1000 capsules, and is growing daily.
 
 Gemini has clients for almost all platforms. A full list can be found at [Awesome Gemini](https://github.com/kr1sp1n/awesome-gemini#clients), but here is a list of suggested clients:
 
-* [Bombadillo](https://rawtext.club/~sloum/bombadillo.html) - Installed on Dimension, its a terminal client that supports Gopher, Gemini, and Finger.
+* [Bombadillo](https://bombadillo.colorfield.space) - Installed on Dimension, its a terminal client that supports Gopher, Gemini, and Finger.
 * [Lagrange](https://git.skyjake.fi/gemini/lagrange) - A beautiful client that works on most platforms. 
 
 
