@@ -38,7 +38,3 @@ This wiki's aim is to hold useful documents for Dimension members. If you wish t
 
 ### Finger
 * [[Using finger]]
-
-### Games
-* [[MUD]]
-* [[Tradewars 2002]]
